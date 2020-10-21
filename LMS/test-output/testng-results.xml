@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="51859" started-at="2020-10-08T11:33:37Z" finished-at="2020-10-08T11:34:29Z">
+  <suite name="Default suite" duration-ms="37272" started-at="2020-10-21T14:07:12Z" finished-at="2020-10-21T14:07:50Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="51859" started-at="2020-10-08T11:33:37Z" finished-at="2020-10-08T11:34:29Z">
+    <test name="Default test" duration-ms="37272" started-at="2020-10-21T14:07:12Z" finished-at="2020-10-21T14:07:50Z">
       <class name="testLms.NewTest">
-        <test-method status="PASS" signature="setPreCond()[pri:0, instance:testLms.NewTest@6d4b1c02]" name="setPreCond" is-config="true" duration-ms="4919" started-at="2020-10-08T17:03:37Z" finished-at="2020-10-08T17:03:42Z">
+        <test-method status="PASS" signature="setPreCond()[pri:0, instance:testLms.NewTest@6d4b1c02]" name="setPreCond" is-config="true" duration-ms="1909" started-at="2020-10-21T19:37:12Z" finished-at="2020-10-21T19:37:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setPreCond -->
-        <test-method status="PASS" signature="beforeMEthod()[pri:0, instance:testLms.NewTest@6d4b1c02]" name="beforeMEthod" is-config="true" duration-ms="6645" started-at="2020-10-08T17:03:42Z" finished-at="2020-10-08T17:03:49Z">
+        <test-method status="PASS" signature="beforeMEthod()[pri:0, instance:testLms.NewTest@6d4b1c02]" name="beforeMEthod" is-config="true" duration-ms="7911" started-at="2020-10-21T19:37:14Z" finished-at="2020-10-21T19:37:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMEthod -->
-        <test-method status="PASS" signature="submitTimesheet()[pri:0, instance:testLms.NewTest@6d4b1c02]" name="submitTimesheet" duration-ms="39360" started-at="2020-10-08T17:03:49Z" finished-at="2020-10-08T17:04:28Z">
+        <test-method status="PASS" signature="submitTimesheet()[pri:0, instance:testLms.NewTest@6d4b1c02]" name="submitTimesheet" duration-ms="26964" started-at="2020-10-21T19:37:22Z" finished-at="2020-10-21T19:37:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- submitTimesheet -->
-        <test-method status="PASS" signature="quitDriver()[pri:0, instance:testLms.NewTest@6d4b1c02]" name="quitDriver" is-config="true" duration-ms="874" started-at="2020-10-08T17:04:28Z" finished-at="2020-10-08T17:04:29Z">
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:testLms.NewTest@6d4b1c02]" name="quitDriver" is-config="true" duration-ms="462" started-at="2020-10-21T19:37:49Z" finished-at="2020-10-21T19:37:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitDriver -->
